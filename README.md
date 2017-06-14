@@ -18,5 +18,5 @@ now(new Date(Date.UTC(2017, 0))); // 2017-01-01 00:00:00
 
 [npm-image]: https://img.shields.io/npm/v/@tgfjt/mysql-now.svg
 [npm-url]: https://npmjs.org/package/@tgfjt/mysql-now
-[travis-image]: https://img.shields.io/travis/tgjft/mysql-now/master.svg?label=linux
-[travis-url]: https://travis-ci.org/tgjft/mysql-now
+[travis-image]: https://img.shields.io/travis/tgfjt/mysql-now/master.svg?label=linux
+[travis-url]: https://travis-ci.org/tgfjt/mysql-now
